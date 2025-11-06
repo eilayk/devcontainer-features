@@ -1,0 +1,9 @@
+{
+    "name": "tree-sitter-cli (via npm)",
+    "id": "tree-sitter-cli-npm",
+    "version": "1.0.0",
+    "description": "The Tree-sitter CLI allows you to develop, test, and use Tree-sitter grammars from the command line.",
+    "dependsOn": {
+      "ghcr.io/devcontainers/features/node:1": {}
+  }
+}
