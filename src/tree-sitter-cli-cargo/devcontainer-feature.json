@@ -1,0 +1,9 @@
+{
+    "name": "tree-sitter-cli (via cargo)",
+    "id": "tree-sitter-cli-cargo",
+    "version": "1.0.0",
+    "description": "The Tree-sitter CLI allows you to develop, test, and use Tree-sitter grammars from the command line.",
+    "dependsOn": {
+      "ghcr.io/devcontainers/features/rust:1": {}
+  }
+}
